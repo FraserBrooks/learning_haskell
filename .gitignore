@@ -1,0 +1,15 @@
+
+
+bin/
+*.native
+*.cmx
+*.cmi
+_build/
+*.o
+*.swo
+*.swp
+_build/*
+fp-learning-2017-2018/
+
+
+
